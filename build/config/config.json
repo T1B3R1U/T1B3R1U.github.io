@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "SCAN_LINK": "https://etherscan.io/address/0x6a7ddde65885cb88cdc7c24391fc962901bc39ee",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "NT First Edition",
+  "SYMBOL": "NTFE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/NT_First_EditionV1",
+  "SHOW_BACKGROUND": true
+}
